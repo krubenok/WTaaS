@@ -1,12 +1,26 @@
 {
-  "name": "WTaaS",
+  "name": "wtaas",
   "version": "1.0.0",
-  "description": "",
+  "description": "WuTang Names as a Service in a serverless environment. Demo for ECSE437 Class.",
   "scripts": {
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
     "request": "^2.81.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krubenok/WTaaS.git"
+  },
+  "keywords": [
+    "Serverless"
+  ],
+  "author": "Kyle Rubenok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krubenok/WTaaS/issues"
+  },
+  "homepage": "https://github.com/krubenok/WTaaS#readme"
 }
